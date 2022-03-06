@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="nEuAEU" name="NewProject" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
-  <MAINGROUP id="OcgoZW" name="NewProject">
+<JUCERPROJECT id="nEuAEU" name="PFMProject0" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth"
+              pluginFormats="buildAU,buildStandalone,buildVST,buildVST3" pluginName="PFMProject0"
+              pluginDesc="PFMProject0">
+  <MAINGROUP id="OcgoZW" name="PFMProject0">
     <GROUP id="{4F387A6E-6B80-FBE4-12C6-B5FF1FF6EC23}" name="Source">
       <FILE id="px2jx7" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
